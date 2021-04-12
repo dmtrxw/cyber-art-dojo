@@ -9,16 +9,16 @@
 * [HTTP and HTTPS](internet/http-and-https.md)
 * [Search Engine](internet/search-engine.md)
 
-## Intro to Programming <a id="mandatory"></a>
+## Intro to Programming
 
-* [Computers](mandatory/computers.md)
-* [Programming Languages](mandatory/programming-languages.md)
-* [Data Structures and Algorithms](mandatory/data-structures-and-algorithms.md)
-* [Design Patterns](mandatory/design-patterns.md)
-* [APIs](mandatory/apis.md)
-* [Computational Thinking](mandatory/computational-thinking.md)
-* [Terminal Emulator](mandatory/terminal-emulator.md)
-* [Version Control](mandatory/version-control.md)
+* [Computers](intro-to-programming/computers.md)
+* [Programming Languages](intro-to-programming/programming-languages.md)
+* [Data Structures and Algorithms](intro-to-programming/data-structures-and-algorithms.md)
+* [Design Patterns](intro-to-programming/design-patterns.md)
+* [APIs](intro-to-programming/apis.md)
+* [Computational Thinking](intro-to-programming/computational-thinking.md)
+* [Terminal Emulator](intro-to-programming/terminal-emulator.md)
+* [Version Control](intro-to-programming/version-control.md)
 
 ## Web Development Basics
 
